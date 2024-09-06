@@ -1,4 +1,4 @@
-**Technical Support:**
+Technical Support:
 -python 
 -Tensorflow 2
 
