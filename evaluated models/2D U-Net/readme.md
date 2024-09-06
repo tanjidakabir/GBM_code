@@ -1,6 +1,6 @@
-*Technical Support:*
-python 
+**Technical Support:**
+python, 
 Tensorflow 2
 
-To run:
+**Run:** 
 run 2d_unet.ipynb
