@@ -1,0 +1,13 @@
+MH_test: /home/Kang_lin_post_model/pre_process_data/test_csv
+MH_model_folder: /home/Daniel_code/models/SegNet/
+MH_test_predict : /home/Daniel_code/predict_result/
+
+# train_data: /home/Kang_lin_post_model/pre_process_data_brats_mh_preop/BRATS_2023_MH_preop_index_all.csv
+# MH_train: /home/Kang_lin_post_model/pre_process_data/train_csv
+# MH_test: /home/Kang_lin_post_model/pre_process_data/test_csv
+# brats_pre_encoder: /home/Kang_lin_post_model/model/3D_Unet_2023_GDF/3DUNet_preoperative_encoder.pt
+# brats_pre_decoder: /home/Kang_lin_post_model/model/3D_Unet_2023_GDF/3DUNet_preoperative_decoder.pt
+# brats_2023_folder: /home/Kang_lin_post_model/model/3D_Unet_2023_GDF/
+# MH_model_folder: /home/Kang_lin_post_model/model/3D_Unet_MH_GDF/
+# MH_model_folder_tr: /home/Kang_lin_post_model/model/3D_Unet_MH_GDF_tr/
+# MH_test_predict : /home/Kang_lin_post_model/MH_predict/
