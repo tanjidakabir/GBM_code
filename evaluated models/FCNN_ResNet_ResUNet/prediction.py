@@ -2,7 +2,7 @@ import tensorflow as tf
 import numpy as np
 from fcnn2d import FCNN_2D, Base, FCNN_BASIC
 from auxiliary import *
-from Unet_basic import UNET, WNET
+#from Unet_basic import UNET, WNET
 from resnet import RESNET
 from resunet import RES_UNET
 
