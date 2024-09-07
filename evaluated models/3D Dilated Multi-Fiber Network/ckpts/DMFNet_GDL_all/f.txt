@@ -1,1 +1,1 @@
-This is our trained model using BraTS'23 dataset.
+Our trained model is trained using BraTS'23 dataset. Its size is greater than 25MB. You should request the corresponding author for trained model. 
