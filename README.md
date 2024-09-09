@@ -5,9 +5,9 @@ We follow the instructions and environments mentioned in the github to evaluate 
   3.  3D U-Net (self-ensembled & deeply supervised): https://github.com/lescientifik/open_brats2020 <br />
   4. 3D Dilated Multi-Fiber Network: https://github.com/China-LiuXiaopeng/BraTS-DMFNet <br />
   5. Knowledge Distillation:
-  6. ResUNet
-  7. ResNet
-  8. FCNN
+  6. ResUNet: https://github.com/milliondegree/semantic-segmentation-tensorflow <br />
+  7. ResNet: https://github.com/milliondegree/semantic-segmentation-tensorflow <br />
+  8. FCNN: https://github.com/milliondegree/semantic-segmentation-tensorflow <br />
   9. Autoencoder Regularization/NvNet: https://github.com/black0017/MedicalZooPytorch <br />
   10. Inter-slice Context Residual Learning/ConResNet: https://github.com/jianpengz/ConResNet <br />
   11. Cascaded Anisotropic CNN
