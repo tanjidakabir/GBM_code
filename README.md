@@ -11,6 +11,6 @@ We follow the instructions and environments mentioned in the github to evaluate 
   9. Autoencoder Regularization/NvNet: https://github.com/black0017/MedicalZooPytorch <br />
   10. Inter-slice Context Residual Learning/ConResNet: https://github.com/jianpengz/ConResNet <br />
   11. Cascaded Anisotropic CNN: https://github.com/charan223/Brain-Tumor-Segmentation-using-Topological-Loss <br />
-  12. SegNet: <br /> 
-  13. nnU-net: <br /> https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1/nnunet
+  12. SegNet: https://github.com/vinceecws/SegNet_PyTorch <br /> 
+  13. nnU-net: https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1/nnunet
  
