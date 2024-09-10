@@ -22,3 +22,18 @@ pytorch 1.14.0a0+44dac51 <br />
 nibabel: 5.1.0 <br />
 pickle: 4.0 <br />
 
+## Usage
+
+1. data preprocessing: 
+  - download BraTS'23 dataset
+  - run this notebook for preprocessing: pre_process_brats_23_mh_preop.ipynb
+  - run this notebook to pretrain the 3D-Unet model for transfer learning: pre_train_model_using_brats_23.ipynb
+    
+2. train model: 
+ - set training data file path
+ - set training parameters
+ - run this notebook for training and testing: model_postoperative_baysian.ipynb
+  
+3. Model directory:
+  - pretrain models' weights is given 
+  
