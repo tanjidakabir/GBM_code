@@ -17,8 +17,8 @@ We follow the instructions and environments mentioned in the github to evaluate 
 # GBSUN Model:
 
 ## Dependencies
-python 3.8.10
-pytorch 1.14.0a0+44dac51
-nibabel: 5.1.0
-pickle: 4.0
+python 3.8.10 <br />
+pytorch 1.14.0a0+44dac51 <br />
+nibabel: 5.1.0 <br />
+pickle: 4.0 <br />
 
